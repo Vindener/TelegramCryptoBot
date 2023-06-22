@@ -7,6 +7,7 @@ import org.telegram.telegrambots.meta.api.methods.send.SendPhoto;
 import org.telegram.telegrambots.meta.api.objects.InputFile;
 import org.telegram.telegrambots.meta.api.objects.Update;
 
+
 public class MyBot extends TelegramLongPollingBot {
 
     public MyBot(){
